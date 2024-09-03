@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://odimericar.github.io/sitemap.html.gz
+Sitemap: https://odimericar.github.io/app/sitemap.html.gz
+Sitemap: https://odimericar.github.io/assets/sitemap.html.gz
+Sitemap: https://odimericar.github.io/css/sitemap.html.gz
+Sitemap: https://odimericar.github.io/includes/sitemap.html.gz
+Sitemap: https://odimericar.github.io/item/sitemap.html.gz
+Sitemap: https://odimericar.github.io/src/sitemap.html.gz
